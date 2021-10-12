@@ -1,1 +1,1 @@
-Cześć, nauczyłem się jak utworzyć clone, folder, plik za pomocą command w linuksie.
+Cześć, nauczyłem się jak utworzyć clone za pomocą command w linuksie.
